@@ -15,15 +15,15 @@
 
   <nav class="nav">
     <div class="nav-inner">
-      <a class="brand" href="index.html">L.<strong>DPA</strong></a>
+      <a class="brand" href="index.php">L.<strong>DPA</strong></a>
       <ul class="links">
-        <li><a href="index.html">Accueil</a></li>
-        <li><a class="active" href="experience.html">Experience</a></li>
-        <li><a href="competences.html">Competences</a></li>
-        <li><a href="projets.html">Projets</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="index.php">Accueil</a></li>
+        <li><a class="active" href="experience.php">Experience</a></li>
+        <li><a href="competences.php">Competences</a></li>
+        <li><a href="projets.php">Projets</a></li>
+        <li><a href="contact.php">Contact</a></li>
       </ul>
-      <a class="btn btn-secondary" href="contact.html">Me joindre</a>
+      <a class="btn btn-secondary" href="contact.php">Me joindre</a>
     </div>
   </nav>
 

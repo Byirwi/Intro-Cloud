@@ -15,13 +15,13 @@
 
   <nav class="nav">
     <div class="nav-inner">
-      <a class="brand" href="index.html">L.<strong>DPA</strong></a>
+      <a class="brand" href="index.php">L.<strong>DPA</strong></a>
       <ul class="links">
-        <li><a href="index.html">Accueil</a></li>
-        <li><a href="experience.html">Experience</a></li>
-        <li><a href="competences.html">Competences</a></li>
-        <li><a href="projets.html">Projets</a></li>
-        <li><a class="active" href="contact.html">Contact</a></li>
+        <li><a href="index.php">Accueil</a></li>
+        <li><a href="experience.php">Experience</a></li>
+        <li><a href="competences.php">Competences</a></li>
+        <li><a href="projets.php">Projets</a></li>
+        <li><a class="active" href="contact.php">Contact</a></li>
       </ul>
       <a class="btn btn-primary" href="mailto:depaiva.louka@gmail.com">Envoyer un mail</a>
     </div>
