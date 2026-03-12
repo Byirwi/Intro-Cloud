@@ -43,7 +43,7 @@
       <div class="reveal">
         <p class="kicker" data-fr="Disponible en alternance" data-en="Open to apprenticeship">Disponible en alternance</p>
         <h1 data-fr="Alternant Technicien systemes et reseaux" data-en="Apprentice Systems and Network Technician">Alternant Technicien systemes et reseaux</h1>
-        <p class="lead" data-fr="Je m'appelle Louka De Paiva Abreu. J'interviens sur le support utilisateur, la gestion du parc, et la resolution d'incidents reseau dans des environnements exigeants."
+        <p class="lead" data-fr="Je m'appelle Louka De Paiva Abreu. Je travaille actuellement en alternance chez Centre Hospitalier Specialiser de la Savoie. J'interviens sur le support utilisateur, la gestion du parc, et la resolution d'incidents reseau dans des environnements exigeants."
           data-en="I am Louka De Paiva Abreu. I handle user support, device fleet operations, and network incident resolution in demanding environments.">Je m'appelle Louka De Paiva Abreu. J'interviens sur le support utilisateur, la gestion du parc,
           et la resolution d'incidents reseau dans des environnements exigeants.</p>
         <div class="hero-actions">
