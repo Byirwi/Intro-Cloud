@@ -43,8 +43,8 @@
       <div class="reveal">
         <p class="kicker" data-fr="Disponible en alternance" data-en="Open to apprenticeship">Disponible en alternance</p>
         <h1 data-fr="Alternant Technicien systemes et reseaux" data-en="Apprentice Systems and Network Technician">Alternant Technicien systemes et reseaux</h1>
-        <p class="lead" data-fr="Je m'appelle Louka De Paiva Abreu. Je travaille actuellement en alternance chez Centre Hospitalier Specialiser de la Savoie. J'interviens sur le support utilisateur, la gestion du parc, et la resolution d'incidents reseau dans des environnements exigeants."
-          data-en="I am Louka De Paiva Abreu. I handle user support, device fleet operations, and network incident resolution in demanding environments.">Je m'appelle Louka De Paiva Abreu. J'interviens sur le support utilisateur, la gestion du parc,
+        <p class="lead" data-fr="Je m'appelle Louka De Paiva Abreu. Je travaille actuellement en alternance chez le Centre Hospitalier Specialise de la Savoie. J'interviens sur le support utilisateur, la gestion du parc, et la resolution d'incidents reseau dans des environnements exigeants."
+          data-en="I am Louka De Paiva Abreu. I am currently an apprentice at the Centre Hospitalier Specialise de la Savoie. I handle user support, device fleet operations, and network incident resolution in demanding environments.">Je m'appelle Louka De Paiva Abreu. J'interviens sur le support utilisateur, la gestion du parc,
           et la resolution d'incidents reseau dans des environnements exigeants.</p>
         <div class="hero-actions">
           <a class="btn btn-primary" href="#contact" data-fr="Parlons de votre besoin" data-en="Let's discuss your needs">Parlons de votre besoin</a>
@@ -92,7 +92,7 @@
         assistance client.</p>
       <div class="grid-2" style="margin-top: 18px;">
         <article class="item reveal">
-          <p class="lead">2024 - actuel</p>
+          <p class="lead" data-fr="2024 - actuel" data-en="2024 - present">2024 - actuel</p>
           <h3 data-fr="Technicien informatique N1" data-en="IT Technician L1">Technicien informatique N1</h3>
           <p>CHS de la Savoie</p>
           <ul>
@@ -104,11 +104,11 @@
           <div class="tags">
             <span class="tag">Octopus</span>
             <span class="tag">Support N1</span>
-            <span class="tag">Alternance</span>
+            <span class="tag" data-fr="Alternance" data-en="Apprenticeship">Alternance</span>
           </div>
         </article>
         <article class="item reveal">
-          <p class="lead">Janv - Avr 2024</p>
+          <p class="lead" data-fr="Janv - Avr 2024" data-en="Jan - Apr 2024">Janv - Avr 2024</p>
           <h3 data-fr="Technicien reseaux" data-en="Network Technician">Technicien reseaux</h3>
           <p>CHMS Chambery</p>
           <ul>
@@ -118,7 +118,7 @@
           </ul>
           <div class="tags">
             <span class="tag">VPN</span>
-            <span class="tag">Reseau</span>
+            <span class="tag" data-fr="Reseau" data-en="Network">Reseau</span>
             <span class="tag">Hotline</span>
           </div>
         </article>
@@ -132,7 +132,7 @@
           </ul>
           <div class="tags">
             <span class="tag">Assistance</span>
-            <span class="tag">Stage</span>
+            <span class="tag" data-fr="Stage" data-en="Internship">Stage</span>
           </div>
         </article>
         <article class="item reveal">
@@ -144,8 +144,8 @@
             <li data-fr="Prise de parole en direct" data-en="Live speaking on-air">Prise de parole en direct</li>
           </ul>
           <div class="tags">
-            <span class="tag">Communication</span>
-            <span class="tag">Media</span>
+            <span class="tag" data-fr="Communication" data-en="Communication">Communication</span>
+            <span class="tag" data-fr="Media" data-en="Media">Media</span>
           </div>
         </article>
       </div>
@@ -162,46 +162,46 @@
         <article class="item reveal">
           <h3 data-fr="Systemes et support" data-en="Systems and support">Systemes et support</h3>
           <div class="pills">
-            <span class="pill">Depannage poste</span>
-            <span class="pill">Gestion de parc</span>
-            <span class="pill">Support utilisateurs</span>
-            <span class="pill">Office 365</span>
-            <span class="pill">Documentation</span>
-            <span class="pill">Intervention terrain</span>
+            <span class="pill" data-fr="Depannage poste" data-en="Workstation troubleshooting">Depannage poste</span>
+            <span class="pill" data-fr="Gestion de parc" data-en="Asset management">Gestion de parc</span>
+            <span class="pill" data-fr="Support utilisateurs" data-en="User support">Support utilisateurs</span>
+            <span class="pill" data-fr="Office 365" data-en="Office 365">Office 365</span>
+            <span class="pill" data-fr="Documentation" data-en="Documentation">Documentation</span>
+            <span class="pill" data-fr="Intervention terrain" data-en="On-site interventions">Intervention terrain</span>
           </div>
         </article>
 
         <article class="item reveal">
           <h3 data-fr="Reseau et exploitation" data-en="Network and operations">Reseau et exploitation</h3>
           <div class="pills">
-            <span class="pill">VPN</span>
-            <span class="pill">Diagnostic incident</span>
-            <span class="pill">Hotline</span>
-            <span class="pill">Ticketing</span>
-            <span class="pill">Brassage</span>
+            <span class="pill" data-fr="VPN" data-en="VPN">VPN</span>
+            <span class="pill" data-fr="Diagnostic incident" data-en="Incident diagnostics">Diagnostic incident</span>
+            <span class="pill" data-fr="Hotline" data-en="Hotline">Hotline</span>
+            <span class="pill" data-fr="Ticketing" data-en="Ticketing">Ticketing</span>
+            <span class="pill" data-fr="Brassage" data-en="Patch panel operations">Brassage</span>
           </div>
         </article>
 
         <article class="item reveal">
           <h3 data-fr="Developpement" data-en="Development">Developpement</h3>
           <div class="pills">
-            <span class="pill alt">Python</span>
-            <span class="pill alt">HTML / CSS</span>
-            <span class="pill alt">PHP</span>
-            <span class="pill alt">C</span>
-            <span class="pill alt">SQL / MySQL</span>
-            <span class="pill alt">Modelisation BDD</span>
+            <span class="pill alt" data-fr="Python" data-en="Python">Python</span>
+            <span class="pill alt" data-fr="HTML / CSS" data-en="HTML / CSS">HTML / CSS</span>
+            <span class="pill alt" data-fr="PHP" data-en="PHP">PHP</span>
+            <span class="pill alt" data-fr="C" data-en="C">C</span>
+            <span class="pill alt" data-fr="SQL / MySQL" data-en="SQL / MySQL">SQL / MySQL</span>
+            <span class="pill alt" data-fr="Modelisation BDD" data-en="Database modeling">Modelisation BDD</span>
           </div>
         </article>
 
         <article class="item reveal">
           <h3 data-fr="Soft skills" data-en="Soft skills">Soft skills</h3>
           <div class="pills">
-            <span class="pill">Communication</span>
-            <span class="pill">Priorisation</span>
-            <span class="pill">Sens du service</span>
-            <span class="pill">Travail en equipe</span>
-            <span class="pill">Anglais professionnel</span>
+            <span class="pill" data-fr="Communication" data-en="Communication">Communication</span>
+            <span class="pill" data-fr="Priorisation" data-en="Prioritization">Priorisation</span>
+            <span class="pill" data-fr="Sens du service" data-en="Service mindset">Sens du service</span>
+            <span class="pill" data-fr="Travail en equipe" data-en="Teamwork">Travail en equipe</span>
+            <span class="pill" data-fr="Anglais professionnel" data-en="Professional English">Anglais professionnel</span>
           </div>
         </article>
       </div>
@@ -270,10 +270,10 @@
         <article class="item reveal">
           <h3 data-fr="Coordonnees" data-en="Contact details">Coordonnees</h3>
           <ul>
-            <li>Email: depaiva.louka@gmail.com</li>
+            <li data-fr="Email: depaiva.louka@gmail.com" data-en="Email: depaiva.louka@gmail.com">Email: depaiva.louka@gmail.com</li>
             <li data-fr="Telephone: 06 64 42 68 67" data-en="Phone: 06 64 42 68 67">Telephone: 06 64 42 68 67</li>
             <li data-fr="Localisation: Grenoble / Chambery" data-en="Location: Grenoble / Chambery">Localisation: Grenoble / Chambery</li>
-            <li>LinkedIn: louka-de-paiva-abreu</li>
+            <li data-fr="LinkedIn: louka-de-paiva-abreu" data-en="LinkedIn: louka-de-paiva-abreu">LinkedIn: louka-de-paiva-abreu</li>
           </ul>
         </article>
 
